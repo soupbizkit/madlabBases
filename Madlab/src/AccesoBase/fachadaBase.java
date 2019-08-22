@@ -18,8 +18,8 @@ public class fachadaBase {
         ResultSet tabla;
         fachadaBase(){
             url="jdbc:postgresql://localhost:5432/proyecto";
-            usuario="postgres";
-            password="1234";
+            usuario="andresfv";
+            password="2019andres";
         }
         
         public Connection conectar(){
